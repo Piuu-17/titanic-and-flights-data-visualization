@@ -25,7 +25,3 @@ The primary focus of this project is demonstrating advanced data visualization t
 ###  Flights Dataset
 *   **Yearly Passenger Growth:** Line plots mapping the steady upward trajectory of global aviation travelers year-over-year.
 *   **Seasonal Heatmap Matrix:** A flight traffic intensity map highlighting that the summer months (July and August) consistently hit peak passenger volume across multiple decades.
-
-
-SERNAME/titanic-and-flights-data-visualization.git](https://github.com/YOUR_USERNAME/titanic-and-flights-data-visualization.git)
-   cd titanic-and-flights-data-visualization
